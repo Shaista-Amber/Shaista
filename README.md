@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Aspiring Software Developer </h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Shaista/Amber/blob/main/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gulabchan&label=Profile%20views&color=0e75b6&style=flat" alt="gulabchan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gulabchan&label=Profile%20views&color=0e75b6&style=flat" alt="gulabcha" /> </p>
 
 - 🔭 I’m currently working on **MERN STACK **
 
